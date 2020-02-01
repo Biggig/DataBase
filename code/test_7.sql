@@ -1,0 +1,3 @@
+GRANT SELECT
+ON courses
+TO PUBLIC
